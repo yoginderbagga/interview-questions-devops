@@ -3,7 +3,7 @@
 
 1. what is Azure DevOps and its core services?
 
-    Azure DevOps is Microsoft Integrated solution for managing the entire application lifecycle. Microsoft Says : "Azure DevOps is cloud based platform which provide you several tools for            software development, that includes everything you need to plan work, collaborate on code, build applications, test functionality and deploy them to production.
+    Azure DevOps is Microsoft Integrated solution for managing the entire application lifecycle. Microsoft Says : "Azure DevOps is cloud based platform which provide you several tools for        software development, that includes everything you need to plan work, collaborate on code, build applications, test functionality and deploy them to production.
 
 - Dashboards
 - Wiki
@@ -15,4 +15,9 @@
 
 2. Give an example of Azure DevOps to explain how it can benefit the work.
 
-   Imagine a team is planning an implementation of a complex IT System, lets say a CRM system or a website, there are a lots of tasks to handle in this such as provision a server, document the requirements, you probably need to migrate all the data, tweak the UI, integrate with other systems etc. Now Azure DevOps can be used here as a central digital board to track and manage all the work that needs to be done to finish the project. 
+   Imagine a team is planning an implementation of a complex IT System, lets say a CRM system or a website, there are a lots of tasks to handle in this such as provision a server, document      the requirements, you probably need to migrate all the data, tweak the UI, integrate with other systems etc. Now Azure DevOps can be used here as a central digital board to track and         manage all the work that needs to be done to finish the project.
+
+3. What is Azure Boards?
+
+   Azure Boards provides an agile dashboard which helps you to plan, track and manage the     project for day to day activities using the agile methodologies. It has native support for Scrum    and Kanban. Azure boards consist of rich UI based dashboard, where you can track user stories, issues, bugs, and extract reports in quickest way possible.
+
