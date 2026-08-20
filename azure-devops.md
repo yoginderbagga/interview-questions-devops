@@ -7,8 +7,8 @@ Azure DevOps is Microsoft Integrated solution for managing the entire applicatio
 
 - Dashboards
 - Wiki
-- Boards
-- Repos
-- Pipelines
-- Test Plans
-- Artifacts
+- Boards: Tracks your works using visual Kanban boards, assign the work to colleague and collaborate
+- Repos: A set of version control tools, you can use to manage your code, 
+- Pipelines: A CI/CD service used to manage and deploy the code to any platform.
+- Test Plans: You have Azure Test Plans which provide several tools to test the code and manage/track the bugs 
+- Artifacts: Azure Devops service to create, host and share the Software packages like ``npm``, ``maven``, ``python``, and universal package from public or private sources. 
