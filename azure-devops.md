@@ -12,3 +12,7 @@
 - Pipelines: A CI/CD service used to manage and deploy the code to any platform.
 - Test Plans: You have Azure Test Plans which provide several tools to test the code and manage/track the bugs 
 - Artifacts: Azure Devops service to create, host and share the Software packages like ``npm``, ``maven``, ``python``, and universal package from public or private sources. 
+
+2. Give an example of Azure DevOps to explain how it can benefit the work.
+
+   Imagine a team is planning an implementation of a complex IT System, lets say a CRM system or a website, there are a lots of tasks to handle in this such as provision a server, document the requirements, you probably need to migrate all the data, tweak the UI, integrate with other systems etc. Now Azure DevOps can be used here as a central digital board to track and manage all the work that needs to be done to finish the project. 
