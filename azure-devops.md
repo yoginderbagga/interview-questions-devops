@@ -24,3 +24,13 @@
 4. What is Azure Pipelines?
 
    Azure Pipelines is the part of Azure DevOps which combines continuous integration, continuous testing and continuous delivery to automatically build, test and deploy code projects to any destination. Azure Pipelines supports all major language, project types and can also automate the workflow in your chosen technologies or framework whether app is on-premises or in the cloud.
+
+5. What is Pipelines Triggers?
+
+   A pipeline trigger simply tells a pipeline when to run on a specific event such as "creation of pull request" ; "on a schedule request" etc.
+
+   - Continuous integration triggers (CI triggers) runs a pipeline when you push code to a branch
+   - Pull request triggers: run a pipeline when you raise a PR or push code to the source branch of an open PR.
+   - Schedule triggers: runs a pipeline on a predefined schedule.
+   - Pipeline completion triggers run a pipeline when another pipeline completes. 
+   
