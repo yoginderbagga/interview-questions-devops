@@ -59,4 +59,6 @@ For example, if you get asked: "How would you troubleshoot a production pipeline
 NOTE: There are many times when an external server like GitHub actions went down or a linter failed or if the designation infrastructure rejected the deployment. Example of Target environments are : `` Kubernetes Cluster``, ``Cloud Platforms : Azure, AWS, GCP`` or ``Environment Tier: Stage/UAT or Production``
 
 ANSWER:
-``First I would identify whether the failure is in the pipeline itself or in the target environment. 
+``First I would identify whether the failure is in the pipeline itself or in the target environment. I would locate the failed stage, review the exact logs, and verify the recent changes made and validate the credentials or dependencies. Once I isolate the root of the issue, I would remediate it, verify the deployment and then determine whether need a preventive action" 
+
+Then stop.
