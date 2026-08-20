@@ -36,4 +36,7 @@
    - Pull request triggers: run a pipeline when you raise a PR or push code to the source branch of an open PR.
    - Schedule triggers: runs a pipeline on a predefined schedule.
    - Pipeline completion triggers run a pipeline when another pipeline( or another build finishes) completes. 
-   
+
+7. What is Azure Artifacts?
+
+   Azure Artifacts is a package management service in Azure DevOps, which let your team create, host, and share the software packages like npm, Maven, Python from a single, central repository. It also simplifies dependency management and integrates directly with CI/CD pipelines. 
