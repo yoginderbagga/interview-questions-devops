@@ -44,3 +44,5 @@
 8. How to manage secrets in Azure DevOps?
 
    There are two ways to manage secrets securely in Azure DevOps such as: 1) Azure Key Vault Integration for the native enterprise-grade management and 2) Native Pipeline Secret Variable for quick and localize configuration. Its recommended to not use the secret or any credential as hardcoded into the repository code. 
+
+9. How would you troubleshoot a failure or error in Azure DevOps pipeline?
