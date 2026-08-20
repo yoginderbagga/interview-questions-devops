@@ -39,4 +39,8 @@
 
 7. What is Azure Artifacts?
 
-   Azure Artifacts is a package management service in Azure DevOps, which let your team create, host, and share the software packages like npm, Maven, Python from a single, central repository. It also simplifies dependency management and integrates directly with CI/CD pipelines. 
+   Azure Artifacts is a package management service in Azure DevOps, which let your team create, host, and share the software packages like npm, Maven, Python from a single, central repository. It also simplifies dependency management and integrates directly with CI/CD pipelines.
+
+8. How to manage secrets in Azure DevOps?
+
+   There are two ways to manage secrets securely in Azure DevOps such as: 1) Azure Key Vault Integration for the native enterprise-grade management and 2) Native Pipeline Secret Variable for quick and localize configuration.
