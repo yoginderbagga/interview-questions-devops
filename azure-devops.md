@@ -32,5 +32,5 @@
    - Continuous integration triggers (CI triggers) runs a pipeline when you push code to a branch
    - Pull request triggers: run a pipeline when you raise a PR or push code to the source branch of an open PR.
    - Schedule triggers: runs a pipeline on a predefined schedule.
-   - Pipeline completion triggers run a pipeline when another pipeline completes. 
+   - Pipeline completion triggers run a pipeline when another pipeline( or another build finishes) completes. 
    
