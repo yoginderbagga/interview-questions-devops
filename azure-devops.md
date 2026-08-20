@@ -46,3 +46,7 @@
    There are two ways to manage secrets securely in Azure DevOps such as: 1) Azure Key Vault Integration for the native enterprise-grade management and 2) Native Pipeline Secret Variable for quick and localize configuration. Its recommended to not use the secret or any credential as hardcoded into the repository code. 
 
 9. How would you troubleshoot a failure or error in Azure DevOps pipeline?
+
+   While answering this question, structure your answer in below way:
+
+   Identify failed stage -> inspect the logs -> isolate the component -> validate configuration/credentials -> reproduce if possible -> if -> rerun -> prevent recurrence. 
