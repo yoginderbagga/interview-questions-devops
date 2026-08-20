@@ -49,4 +49,14 @@
 
    While answering this question, structure your answer in below way:
 
-   Identify failed stage -> inspect the logs -> isolate the component -> validate configuration/credentials -> reproduce if possible -> if -> rerun -> prevent recurrence. 
+   Identify failed stage -> inspect the logs -> isolate the component -> validate configuration/credentials -> reproduce if possible -> if -> rerun -> prevent recurrence.
+
+
+## How to answer such questions like a Senior DevOps Engineer? 
+
+For example, if you get asked: "How would you troubleshoot a production pipeline suddenly fails. What would you do?"
+
+NOTE: There are many times when an external server like GitHub actions went down or a linter failed or if the designation infrastructure rejected the deployment. Example of Target environments are : `` Kubernetes Cluster``, ``Cloud Platforms : Azure, AWS, GCP`` or ``Environment Tier: Stage/UAT or Production``
+
+ANSWER:
+``First I would identify whether the failure is in the pipeline itself or in the target environment. 
