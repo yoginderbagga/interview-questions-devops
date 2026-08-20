@@ -21,3 +21,6 @@
 
    Azure Boards provides an agile dashboard which helps you to plan, track and manage the     project for day to day activities using the agile methodologies. It has native support for Scrum    and Kanban. Azure boards consist of rich UI based dashboard, where you can track user stories, issues, bugs, and extract reports in quickest way possible.
 
+4. What is Azure Pipelines?
+
+   Azure Pipelines is the part of Azure DevOps which combines continuous integration, continuous testing and continuous delivery to automatically build, test and deploy code projects to any destination. Azure Pipelines supports all major language, project types and can also automate the workflow in your chosen technologies or framework whether app is on-premises or in the cloud.
